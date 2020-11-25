@@ -13,3 +13,16 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+
+# IDE and other cruft
+.DS_Store
+.project
+.idea
+.metadata
+.settings
+.classpath
+target
+*.log
+testing.properties
+
